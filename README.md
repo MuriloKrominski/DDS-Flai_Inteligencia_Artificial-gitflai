@@ -2,7 +2,7 @@
 # Workshop FLAI Dominando Data Science 
 Baseado em: https://github.com/gitflai/Workshop-DDS
 
-###Canais da Flai:
+### Canais da Flai:
 • Instagram: https://lnkd.in/eFdDvqA<br>
 • YouTube: https://lnkd.in/e_cThD4<br>
 • Twitter: https://lnkd.in/eEjQXPm<br>
