@@ -3,11 +3,11 @@
 Baseado em: https://github.com/gitflai/Workshop-DDS
 
 ###Canais da Flai:
-• Instagram: https://lnkd.in/eFdDvqA
-• YouTube: https://lnkd.in/e_cThD4
-• Twitter: https://lnkd.in/eEjQXPm
-• Site: https://www.flai.com.br/
-• Curso da Flai: https://lnkd.in/e_Ff_Zj
+• Instagram: https://lnkd.in/eFdDvqA<br>
+• YouTube: https://lnkd.in/e_cThD4<br>
+• Twitter: https://lnkd.in/eEjQXPm<br>
+• Site: https://www.flai.com.br/<br>
+• Curso da Flai: https://lnkd.in/e_Ff_Zj<br>
 ### *it's time to flai!*
 
 ## Relatorio:
