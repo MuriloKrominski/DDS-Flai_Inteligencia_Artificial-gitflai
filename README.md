@@ -10,7 +10,7 @@ Baseado em: https://github.com/gitflai/Workshop-DDS
 • Curso da Flai: https://lnkd.in/e_Ff_Zj<br>
 ### *it's time to flai!*
 
-## Relatorio:
+## Relatório:
 https://murilokrominski.github.io/DDS-Flai_Inteligencia_Artificial-gitflai/
 
 ## Requerimentos:
