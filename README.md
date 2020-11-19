@@ -25,6 +25,9 @@ streamlit==0.64.0<br>
 ## Relatório1 (estático):
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/MuriloKrominski/DDS-Flai_Inteligencia_Artificial-gitflai/main/docs/Relatorio1.html
 
+## Relatório1b (estático):
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/MuriloKrominski/DDS-Flai_Inteligencia_Artificial-gitflai/main/docs/Relatorio1b.html
+
 ## Relatório2 (estático):
 https://htmlpreview.github.io/?https://raw.githubusercontent.com/MuriloKrominski/DDS-Flai_Inteligencia_Artificial-gitflai/main/docs/Relatorio2.html
 
