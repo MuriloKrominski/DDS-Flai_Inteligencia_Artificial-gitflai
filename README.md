@@ -10,8 +10,11 @@ Baseado em: https://github.com/gitflai/Workshop-DDS
 • Curso da Flai: https://lnkd.in/e_Ff_Zj<br>
 ### *it's time to flai!*
 
-## Relatório:
+## Relatório2:
 https://murilokrominski.github.io/DDS-Flai_Inteligencia_Artificial-gitflai/
+
+## Relatório1 (estático):
+https://htmlpreview.github.io/?https://raw.githubusercontent.com/MuriloKrominski/DDS-Flai_Inteligencia_Artificial-gitflai/main/docs/Relatorio1.html
 
 ## Requerimentos:
 pandas==1.1.4<br>
