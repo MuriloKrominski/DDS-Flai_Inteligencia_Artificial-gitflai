@@ -18,13 +18,9 @@ pandas==1.1.4<br>
 pycaret==2.2<br>
 streamlit==0.64.0<br>
 
-## Dataset:
-https://www.kaggle.com/mirichoi0218/insurance
-Medical Cost Personal Datasets
-Insurance Forecast by using Linear Regression
-
 ## Aplicativo Web com o deploy dos modelos obtidos:
 [Medical Cost Deploy Center](https://share.streamlit.io/gitflai/workshop-dds/main/medical.py)
 
 ## Notebook com a criação dos modelos utilizando o PyCaret:
-[Notebook: Medical Cost Personal Datasets](https://github.com/MuriloKrominski/DDS-Flai_Inteligencia_Artificial-gitflai/blob/main/Dados_de_Custos_Medicos.ipynb)
+[Notebook: Medical Cost Personal Datasets](https://github.com/MuriloKrominski/DDS-Flai_Inteligencia_Artificial-gitflai/blob/main/Dados_de_Custos_Medicos.ipynb)<br>
+<a href="https://colab.research.google.com/github/MuriloKrominski/DDS-Flai_Inteligencia_Artificial-gitflai/blob/main/Dados_de_Custos_Medicos.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
